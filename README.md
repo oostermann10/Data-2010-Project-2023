@@ -1,1 +1,3 @@
 Used the FIFA World Cup dataset to create a ELO ranking system based on results of past games. Based on the teams rankings, used a logistic regression model to predict the probabilities of teams goals scored based on the opponent. Hyper tuned the logistic regression model's parameters using Limited Memory BFGS optimization. Resulted in creating a matrix of probabilities of the likelihood of a team scoring certain amount of goals in a game based on the opponent to help inform sports bettors which spreads to bet on for goals in a game.
+
+The final report paper can be found in "data2010-final-report.pdf" and the code can be found in the RMD file. The code is also attached in the appendix of the paper.
